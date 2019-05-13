@@ -1,5 +1,15 @@
 # VuforiaAR
 
+This project was made in **Unity 2018.3.12f1**
+
+Clone this Repo to your prefered path.
+
+You will need to download and import some **packages** that this project uses:
+----------------------------
+
+## Vuforia
+[Vuforia AR Getting Started](https://library.vuforia.com/articles/Training/getting-started-with-vuforia-in-unity.html)
+
 
 ## TextMesh Pro
 

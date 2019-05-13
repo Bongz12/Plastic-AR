@@ -4,6 +4,11 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+VuforiaARDemo/Assets/PlayServicesResolver*
+VuforiaARDemo/Assets/GoogleARCore*
+VuforiaARDemo/Assets/TextMesh Pro*
+VuforiaARDemo/Assets/FullTiltBoogie*
+VuforiaARDemo/Assets/Vuforia*
 
 # Visual Studio cache directory
 .vs/
@@ -23,6 +28,8 @@ ExportedObj/
 *.svd
 *.pdb
 *.opendb
+*.mp4
+*.meta
 
 # Unity3D generated meta files
 *.pidb.meta

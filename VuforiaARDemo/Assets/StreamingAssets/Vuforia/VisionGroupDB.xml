@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="IdiAmin1" size="0.190000 0.128159" />
+    <ImageTarget name="RomanyCreams" size="0.180000 0.098650" />
+    <ImageTarget name="SpecialK" size="0.200000 0.123115" />
+    <ImageTarget name="Venezuela" size="0.120000 0.078588" />
+    <ImageTarget name="Oil" size="0.050000 0.103813" />
+    <ImageTarget name="Soda2" size="0.040000 0.061448" />
+    <ImageTarget name="Soda1" size="0.040000 0.065141" />
+    <ImageTarget name="Rice" size="0.060000 0.095569" />
+    <ImageTarget name="Maize" size="0.070000 0.091354" />
+    <ImageTarget name="Coffee" size="0.050000 0.094318" />
+    <ImageTarget name="Beans" size="0.050000 0.088675" />
+    <ImageTarget name="WashingPowder" size="0.060000 0.062485" />
+    <ImageTarget name="Bleach" size="0.060000 0.059723" />
+    <ImageTarget name="Sweets" size="0.050000 0.057657" />
+    <ImageTarget name="Grandpa" size="0.050000 0.055980" />
+    <ImageTarget name="Milk" size="0.070000 0.059394" />
+    <ImageTarget name="Chips" size="0.060000 0.052846" />
+    <ImageTarget name="Beer" size="0.090000 0.070053" />
+    <ImageTarget name="Soccer" size="0.130000 0.111493" />
+    <ImageTarget name="NewInstrument" size="0.150000 0.096977" />
+    <ImageTarget name="ClubBeer" size="0.130000 0.150919" />
+    <ImageTarget name="IdiAmin2" size="0.130000 0.094418" />
+    <ImageTarget name="IdiAmin3" size="0.170000 0.124600" />
+    <ImageTarget name="PrisonBand" size="0.100000 0.083390" />
+    <ImageTarget name="FrontPage" size="0.250000 0.243431" />
+  </Tracking>
+</QCARConfig>

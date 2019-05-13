@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="FrontPage" size="0.250000 0.243431" />
+    <ImageTarget name="Prod_SpecialK" size="0.200000 0.123115" />
+    <ImageTarget name="Cat_Beer" size="0.100000 0.077837" />
+    <ImageTarget name="Vid_Cricket" size="0.180000 0.118476" />
+  </Tracking>
+</QCARConfig>

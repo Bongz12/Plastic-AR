@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ArrowTest" size="100.000000 56.272774" />
+    <ImageTarget name="assemble1" size="100.000000 93.372780" />
+    <ImageTarget name="ArrowNew" size="100.000000 56.177723" />
+    <ImageTarget name="Cat_WillardsCrinkleCut" size="100.000000 83.169289" />
+    <ImageTarget name="Cat_Rhodes100FruitJuice" size="100.000000 83.432541" />
+    <ImageTarget name="Cat_NescafeClassicCoffee" size="100.000000 81.280785" />
+    <ImageTarget name="Cat_MelroseCheeseSpread" size="100.000000 80.753967" />
+    <ImageTarget name="Cat_LindtExcelentChocolate" size="100.000000 86.258774" />
+    <ImageTarget name="Cat_IllovoLightBrownSugar" size="100.000000 80.077744" />
+    <ImageTarget name="Cat_HarvestimeFrozenChips" size="100.000000 79.593811" />
+    <ImageTarget name="Cat_BakersProvitaBiscuits" size="100.000000 84.623116" />
+    <ImageTarget name="arr" size="100.000000 57.013577" />
+    <ImageTarget name="arrow" size="1000.000000 568.965515" />
+    <ImageTarget name="builders_stop" size="100.000000 159.188538" />
+    <ImageTarget name="builders_ptfeh" size="100.000000 156.511627" />
+    <ImageTarget name="Builders_Compression_elbow" size="100.000000 162.605759" />
+    <ImageTarget name="builder_compression" size="100.000000 162.077301" />
+    <ImageTarget name="assemble" size="100.000000 68.732391" />
+    <ImageTarget name="200mm_Adjustable" size="100.000000 160.963852" />
+    <ImageTarget name="Shower_arm" size="100.000000 160.817307" />
+    <ImageTarget name="Grip_Pliers" size="100.000000 158.809525" />
+    <ImageTarget name="ellies" size="100.000000 161.237106" />
+    <ImageTarget name="Ross_Tape_Measure" size="100.000000 160.066559" />
+    <ImageTarget name="ross_artisan_level" size="100.000000 155.177994" />
+    <ImageTarget name="Grip_3-30_mm" size="100.000000 160.500000" />
+    <ImageTarget name="copper_tube" size="100.000000 160.575302" />
+    <ImageTarget name="Builders_Compression" size="100.000000 162.605759" />
+    <ImageTarget name="0003" size="100.000000 131.453735" />
+    <ImageTarget name="0002" size="100.000000 141.500305" />
+    <ImageTarget name="0001" size="100.000000 141.500305" />
+    <ImageTarget name="WashingPowder_scaled" size="100.000000 104.170906" />
+    <ImageTarget name="Sweets_scaled" size="100.000000 115.315315" />
+    <ImageTarget name="Soda2_scaled" size="100.000000 153.753754" />
+    <ImageTarget name="Soda1_scaled" size="100.000000 163.057327" />
+    <ImageTarget name="RomanyCreams_scaled" size="100.000000 54.785156" />
+    <ImageTarget name="Rice_scaled" size="100.000000 159.501556" />
+    <ImageTarget name="Oil_scaled" size="100.000000 207.707916" />
+    <ImageTarget name="Milk_scaled" size="100.000000 84.765625" />
+    <ImageTarget name="Maize_scaled" size="100.000000 130.612244" />
+    <ImageTarget name="Grandpa_scaled" size="100.000000 112.035011" />
+    <ImageTarget name="Coffee_scaled" size="100.000000 188.929886" />
+    <ImageTarget name="ClubBeer_scaled" size="100.000000 116.099770" />
+    <ImageTarget name="Chips_scaled" size="100.000000 87.988281" />
+    <ImageTarget name="Bleach_scaled" size="100.000000 99.511719" />
+    <ImageTarget name="Beer_scaled" size="100.000000 77.832031" />
+    <ImageTarget name="Beans_scaled" size="100.000000 177.469666" />
+  </Tracking>
+</QCARConfig>

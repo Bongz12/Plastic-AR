@@ -99,6 +99,12 @@ public static class ProductDetail
                 price = "R35.00";
             }
             break;
+            case ("Whatever"):
+            {
+                name = "whatever 1";
+                price = "R35.00";
+            }
+            break;
         }
     }
 }
